@@ -1,0 +1,37 @@
+p, div, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+.photo {
+	width: 150px;
+}
+h1 {
+	color: red;
+}
+.fish {
+	color: white;
+	background: blue;
+	width: 100px;
+	height: 80px;
+	margin-bottom: 100px;
+	line-height: 0.6em;
+}
+.text span {
+	color: red;
+}
+h2 {
+	color: white;
+	background: green;
+}
+.word {
+	height: 30px;
+	padding: 5px;
+}
+.topic {
+	padding: 40px;
+}
+.lock {
+	margin-left: 100px;
+}
+li {
+	border: 1px solid black;
+}
